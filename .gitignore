@@ -1,0 +1,5 @@
+**/__pycache__/
+*.egg-info
+logs/
+_orbit*
+wandb/
